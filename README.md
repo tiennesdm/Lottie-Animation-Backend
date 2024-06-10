@@ -164,6 +164,11 @@ Follow these steps to set up the project:
       }
      `;
      ```
+## Contact ##
+For questions or support, please contact:
+
+**Author: Shubham Mehta 
+Email: shubahm.mehta@gmailcom**
 
 
 
